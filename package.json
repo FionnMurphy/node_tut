@@ -1,15 +1,22 @@
 {
-  "name": "fionntest",
+  "name": "express",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FionnMurphy/node_tut.git"
+  },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "bootstrap": "^5.1.3",
-    "lodash": "^4.17.21"
+  "bugs": {
+    "url": "https://github.com/FionnMurphy/node_tut/issues"
+  },
+  "homepage": "https://github.com/FionnMurphy/node_tut#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
   }
 }
